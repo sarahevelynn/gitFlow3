@@ -1,7 +1,7 @@
 header {
   display: grid;
   grid-template-columns: repeat(6, 1fr);
-  grid-gap: 10px;
+  grid-gap: 100px;
   align-items: end;
   border-bottom: .3rem solid darkgrey;
 }
@@ -23,5 +23,6 @@ nav {
 nav a {
   text-decoration: overline;;
   color: darkgrey;
+  background-color: yellow;
   font-size:
 }
